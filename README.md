@@ -1,2 +1,2 @@
 # simplicity-dev-project
-basic webapp
+basic webapp using angular.js
