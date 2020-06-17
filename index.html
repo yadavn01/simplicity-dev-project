@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html ng-app="project">
+<head>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="style.css">
+  <script data-require="angular.js@1.4.x" src="https://code.angularjs.org/1.4.12/angular.js" data-semver="1.4.9"></script>
+  <script src="script.js"></script>
+</head>
+  <body ng-controller="mainCtrl">
+
+    <div class="header">
+<h1>Simplicity</h1>
+<p>Junior Dev. project</p>
+</div>
+
+<div class="row">
+
+<div id="column1">
+
+<button class="buttons" ng-click="changeClass('item1')"> Mazda </button>
+<br>
+<button class="buttons" ng-click="changeClass('item2')"> Bugatti </button>
+<br>
+<button class="buttons" ng-click="changeClass('item3')"> Holden </button>
+<br>
+<button class="buttons" ng-click="changeClass('item4')"> Lamborghini </button>
+<br>
+<button class="buttons" ng-click="changeClass('item5')"> Toyota </button>
+
+</div>
+
+
+<div id="column2">
+  
+  <div id="item1">
+  <p> 
+    <ul ng-controller="mainCtrl"> 
+     <b> {{data[0].Name}} </b> <br><br><br> {{data[0].Model}} 
+    </ul>
+ </p>
+  </div>
+
+  <div id="item2">
+  <p> <ul ng-controller="mainCtrl"> 
+      <b> {{data[1].Name}} </b> <br><br><br>  {{data[1].Model}}
+      </ul>
+        </p>
+  </div>
+
+
+  <div id="item3">
+  <p> <ul ng-controller="mainCtrl"> 
+      <b> {{data[2].Name}} </b> <br><br><br>  {{data[2].Model}}
+      </ul>
+       </p>
+  </div>
+
+  <div id="item4">
+  <p><ul ng-controller="mainCtrl"> 
+      <b>{{data[3].Name}} </b> <br><br><br>  {{data[3].Model}}
+      </ul>
+      </p>
+  </div>
+
+  <div id="item5">
+  <p> <ul ng-controller="mainCtrl"> 
+     <b> {{data[4].Name}}</b>  <br><br><br> {{data[4].Model}}
+      </ul>
+      </p>
+  </div> 
+
+
+</div>
+</div>
+
+
+  </body>
+</html>

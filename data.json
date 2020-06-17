@@ -1,0 +1,25 @@
+[
+    {
+      "Name":"Mazda Demio",
+      "Model": "The Mazda Demio is a supermini manufactured and marketed globally by Mazda since 1996, currently in its fourth generation. The Demio is marketed prominently as the Mazda2 and under previous nameplates including Mazda 121, Mazda Metro and Ford Festiva Mini Wagon."
+    },
+    {
+      "Name":"Bugatti Veyron",
+      "Model":"The Bugatti Veyron EB 16.4 is a mid-engine sports car, designed and developed in Germany by the Volkswagen Group and manufactured in Molsheim, France, by French automobile manufacturer Bugatti. It was named after the racing driver Pierre Veyron."
+    },
+    {
+      "Name":"Holden Astra",
+      "Model":"The Holden Astra is a small car formerly marketed by Holden. The first couple of generations of Astra were made only for Australia, and was a derivative of the locally produced Nissan Pulsar. With the Button car plan coming into effect, it was replaced by the Holden Nova, a rebadged Toyota Corolla.[3]"
+    },
+
+    {
+      "Name":"Lamborghini Aventador",
+      "Model":"Launched on 28 February 2011 at the Geneva Motor Show, five months after its initial unveiling in Sant'Agata Bolognese, the vehicle, internally codenamed LB834, was designed to replace the then-decade-old Murciélago as the new flagship model."
+    },
+
+    {
+      "Name":"Toyota Hilux",
+      "Model":"The Hilux started production in March 1968 as the RN10 in short-wheelbase form with a 1.5 L inline-four engine, generating a maximum power output of 77 PS (57 kW; 76 hp) in Japanese market specification. In Japan, it was available at the Toyota Japan dealership retail chains called Toyota Store and Toyopet Store. The modification to the engine was enough for a claimed top speed of 130 km/h (81 mph). The 1.5-litre engine was upgraded to a 1.6 L inline-four in February 1971."
+    }
+
+  ]
